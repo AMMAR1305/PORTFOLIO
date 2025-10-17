@@ -122,7 +122,7 @@ export default function Skills() {
         viewport={{ once: true }}
         className="mt-16 text-gray-300 text-sm"
       >
-        *Hover over cards to explore — skills dynamically animated with Framer Motion ✨
+        
       </motion.p>
     </section>
   );
