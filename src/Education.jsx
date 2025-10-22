@@ -3,7 +3,7 @@ import { FaGraduationCap, FaSchool, FaBook } from "react-icons/fa";
 
 const educationData = [
   {
-    degree: "B.E. Computer Science and Engineering",
+    degree: "B.Tech Information Technology",
     institution: "Sri Shakthi Institute of Engineering and Technology",
     year: "2023 - 2027",
     cgpa: "9.0",
