@@ -25,7 +25,7 @@ export default function About() {
         transition={{ duration: 0.8, delay: 0.2 }}
         viewport={{ once: true }}
       >
-        I'm a passionate <span className="text-indigo-400 font-semibold">Full Stack Developer</span> 
+        I'm a passionate <span className="text-indigo-400 font-semibold">Full Stack Developer </span> 
         dedicated to building <span className="text-purple-400 font-semibold">interactive, scalable, and user-friendly </span> 
          web applications using modern technologies like React, Node.js, Express, MongoDB, and Java.
       </motion.p>
