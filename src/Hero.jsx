@@ -33,7 +33,8 @@ export default function Hero() {
 
         <p className="mt-5 text-lg md:text-2xl text-gray-300 max-w-2xl leading-relaxed">
           I'm a <span className="text-indigo-400 font-semibold">Full Stack Developer </span> 
-          dedicated to crafting efficient, user-friendly, and visually striking web applications.
+          dedicated to crafting efficient, 
+          user-friendly, and visually striking web applications.
         </p>
 
         {/* Buttons */}
